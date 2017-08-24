@@ -1,0 +1,25 @@
+title: Ordinary programmer's blog
+email: zhulik.gleb@gmail.com
+description: >
+  Yet another ordinary blog about programming by yet another ordinary programmer
+baseurl: ""
+url: "zhulik.github.io"
+twitter_username: zhulikgleb
+github_username:  zhulik
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
