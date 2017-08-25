@@ -26,4 +26,5 @@ administration interface for [RoadAR APP](https://play.google.com/store/apps/det
 company started project for car licence plate recognition and my C++ and building skills became usefull again. I was some
 kind of release-engeneer for this project: all my сolleagues were zealous Mac users with no experience in Linux. I moved
 building system from Xcode to CMake and persuaded everybody to use it. Then I made this [tool](https://github.com/zhulik/bubing)
-that helped me to build self-sufficient bundles for linux software and run it on any distribution.
+which helped me to build self-sufficient bundles of linux software and run it on any distribution. Actually I didn't want
+to work with low-level stack like C++/OpenCV and so on, so I thoutght about chaning job again. 

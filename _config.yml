@@ -6,6 +6,7 @@ baseurl: ""
 url: "zhulik.github.io"
 twitter_username: zhulikgleb
 github_username:  zhulik
+linkedin_username: gleb-sinyavsky-65b0725a
 
 markdown: kramdown
 theme: minima
