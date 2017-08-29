@@ -6,7 +6,7 @@ permalink: /about/
 
 # Boring part about programming and career
 
-I am an ordinary programmer like the ones you see every day: beard, backpack with a laptop and so on. I stated my career in 2010 as
+I am an ordinary programmer like the ones you see every day: beard, backpack with a laptop and so on. I stated my career in 2011 as
 embedded Linux programmer at UZPS factory, Ufa city. I still love Linux and use Lenovo laptop as my working machine.
 Anyway, at my fist job I got experience with C++, Qt, QML and some kinds of tricky libs and tools. I got understending
 of cross-compilation and building different stuff for rare Linux distributions and achitectures. It was very helpful
@@ -28,6 +28,7 @@ company started a project for car licence plate recognition and my C++ and build
 a some kind of release-engeneer for that project: all my сolleagues were zealous Mac users without Linux experience. I moved
 building system from Xcode to CMake and persuaded everybody to use it. Then I made this [tool](https://github.com/zhulik/bubing)
 which helped me to build self-sufficient bundles of linux software and run it on any distribution. Actually I didn't want
-to work with low-level stack like C++/OpenCV, so I thoutght about chaning my job again.
+to work with low-level stack like C++/OpenCV, so I thoutght about chaning my job again, but I still help them by supporting
+server infrastructure and with small web projects.
 
-From the beginning of 2017 until now I work [here](mechanizm.io).
+From the beginning of 2017 and until now I work [here](mechanizm.io).
