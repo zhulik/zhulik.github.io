@@ -4,9 +4,18 @@ description: >
   Yet another ordinary blog about programming by yet another ordinary programmer
 baseurl: ""
 url: "zhulik.github.io"
-twitter_username: zhulikgleb
-github_username:  zhulik
-linkedin_username: gleb-sinyavsky-65b0725a
+
+contacts:
+  twitter:
+    username: zhulikgleb
+    title: zhulikgleb
+
+  github:
+    username: zhulik
+    title: zhulik
+  linkedin:
+    username: gleb-sinyavsky-65b0725a
+    title: Gleb Sinyavsky
 
 markdown: kramdown
 plugins:

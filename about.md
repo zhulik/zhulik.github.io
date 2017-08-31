@@ -31,4 +31,4 @@ which helped me to build self-sufficient bundles of linux software and run it on
 to work with low-level stack like C++/OpenCV, so I thoutght about chaning my job again, but I still help them by supporting
 server infrastructure and with small web projects.
 
-From the beginning of 2017 and until now I work [here](mechanizm.io).
+From the beginning of 2017 and until now I work [here](http://mechanizm.io).
