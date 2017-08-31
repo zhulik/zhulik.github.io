@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The first one"
-categories: welcome
+categories: posts
 ---
 
 So, today I created this blog. I'll try to post in English(my native language is Russian) not for popularity or community,
