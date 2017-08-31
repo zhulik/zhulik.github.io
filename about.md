@@ -32,3 +32,52 @@ to work with low-level stack like C++/OpenCV, so I thoutght about chaning my job
 server infrastructure and with small web projects.
 
 From the beginning of 2017 and until now I work [here](http://mechanizm.io).
+
+# Interesting part about hobbies
+## Music
+From an early age I was interested in rock and heavy music. My favorite bands:
+* Scandinavian
+  * In flames
+  * Children Of Bodom
+  * Scar Symmetry
+  * Malrun
+  * Immportal
+  * Abbath
+  * I
+  * Ghost B. C.
+* German
+  * In Extremo
+* British
+  * Iron maiden
+  * Motorhead
+  * Anterior
+* Italian
+  * Fleshgod Apocalypse
+* American
+  * Slipknot
+  * Godsmack
+  * Disturbed
+
+When I was 18 I started learning to play drums. After 1 year of learning I found my first band(melodic-death/power),
+we gave a few conserts and broke up. Then I participated in soft-rock band of my friends, and gave few concerts with them.
+And the last band I participated in was old-school death metal band. After relocation to Kazan I didn't find an interesting
+band there, so I abandoned music. Anyway I do programming better than music=). I still have habit of knoking on the table
+and stomping in tact of music I'm listening to.
+
+## Travels
+
+My first abroad travel was in 2012. It was a trip to several europenian countries: Czech Republic, France and Italy. As It was
+my first abroad experience I was very inspired and a little bit frightened, but everything has happened well.
+We drank beer in Prague, saw Eiffel Tower at night in Paris, swam in Adriatic Sea in Riomaggiore и were dying from the heat in Rome.
+An incredible adventure!
+
+The next thip happend in 2013. My friend called me in My and told "Hey! There is very cheap tickets from Moscow to Berin
+in October! Do I get a ticket for you?". I answered yes and It costed me my studies at the university. As it turned out later -
+I had a session in my university right on days of our trip. I was expelled from the university. This time we visited
+Berlin, Dresden, Prague(Beer!, beer!), Amsterdam(Weed!, Weed!), Dusseldorf and Cologne. There, in Cologne I went to the
+In Extemo show for the first time. It was awesome! Europenian headbangers community is entirely different from Russian one.
+In Russia you usually see drunk and unwashed youth near the scene. In Europe on the show we saw people aged from 16 to
+nearly 70(maybe, older, I don't know), and they were very polite and friendly! But they were drunk too=). After returning
+I went to university and recovered. That's why I studied at the university for so long.
+
+Trips in 2017 will be described in future posts.
