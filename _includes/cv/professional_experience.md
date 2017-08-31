@@ -21,7 +21,7 @@
     * Moving server infrastucture from Azure to Digital Ocean
     * Administrating and monitoring of highly loaded Sidekiq(150-200k jobs per day)
     * DB denormalization and SQL optimization
-    * Mobile app API and optimization
+    * [Mobile app](https://play.google.com/store/apps/details?id=ru.roadar.android) API and optimization
     * Administration inteface based on AngularJS
     * Various backends for side-projects
     * WEB app for manual recognition and dataset collection for road signs and car licence plates based on AngularJS and React

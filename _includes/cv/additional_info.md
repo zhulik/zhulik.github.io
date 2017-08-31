@@ -3,7 +3,7 @@ I prefer to write unit and integration tests for almost everything, sometimes be
 for refactoring and makes me more confident in my work. Also I prefer to use functional programming patterns even in
 OO languages: if something can be done with pure functions - I will do it in this way, but whithout fanaticism
 and breaking the rest architecture. Ruby is a very magical language and allows deveper to make one task in different ways,
-so I usually write my code in very obvious manner, but when the task requires to write boilerplate code, I use metaprogramming.
+so I usually write my code in a very obvious manner, but when the task requires to write boilerplate code, I use metaprogramming.
 If something can be done without metaprogramming and other magic it should be done without metaprogramming and magic. I prefer
 explicit interfaces in my code, it simplifies reading and understanding.
 
