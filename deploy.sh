@@ -8,9 +8,9 @@ function commit() {
   git push origin master
 }
 
-commit $1
-
 jekyll b
 
+commit $1 &
 cd _site
-commit $1
+commit $1 &
+wait
