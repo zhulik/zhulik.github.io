@@ -4,8 +4,8 @@
   *Accomplishments:*
   * GUI and low-level integrations for IPTV STB of own manufacture
   * JS-C++ bridge for Qt's Web and QML engines
-  * Side project - and Android tool for remote control of IPTV STB
-  * YouTube, Ivi and Twitter apps for IPTV STB
+  * Side project - an Android tool for remote control of IPTV STB
+  * YouTube, IVI and Twitter apps for IPTV STB
   * Z-Wave home automation client for IPTV STB
 
 * 2013-2015 Racoons Group, Kazan - full stack developer
