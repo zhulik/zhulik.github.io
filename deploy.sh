@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -eu
-
 function commit() {
   git add .
   git commit -a -m"$1"
@@ -10,7 +8,7 @@ function commit() {
 
 JEKYLL_ENV=production jekyll b
 
-commit "$*" &
+commit "$*"
 cd _site
-commit "$*" &
+commit "$*"
 wait

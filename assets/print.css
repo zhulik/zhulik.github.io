@@ -130,6 +130,9 @@ table {
   table td {
     border: 1px solid #e8e8e8; }
 
+.pull-right {
+  float: right; }
+
 .highlight {
   background: #fff; }
   .highlighter-rouge .highlight {
