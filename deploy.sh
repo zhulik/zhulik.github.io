@@ -10,7 +10,7 @@ function commit() {
 
 JEKYLL_ENV=production jekyll b
 
-commit "$@" &
+commit "$*" &
 cd _site
-commit "$@" &
+commit "$*" &
 wait
