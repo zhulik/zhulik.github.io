@@ -8,7 +8,7 @@ function commit() {
   git push origin master
 }
 
-jekyll b
+JEKYLL_ENV=production jekyll b
 
 commit $1 &
 cd _site
