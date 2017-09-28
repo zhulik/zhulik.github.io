@@ -50,7 +50,7 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: 10px; }
+  margin-left: 20px; }
 
 li > ul,
 li > ol {
@@ -312,3 +312,7 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+@media print {
+  div.pagebreak {
+    page-break-after: always; } }
