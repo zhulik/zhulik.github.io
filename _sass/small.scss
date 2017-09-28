@@ -37,3 +37,9 @@ $on-laptop:        800px !default;
   "minima/base",
   "minima/syntax-highlighting"
 ;
+
+@media print {
+  div.pagebreak {
+   page-break-after: always;
+  }
+}
