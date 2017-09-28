@@ -1,6 +1,7 @@
 ---
 layout: print
-permalink: /cv_print/
+pdf: true
+permalink: /gleb_sinyavsky_cv.pdf
 ---
 # CV
 

@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
-gem "jekyll", "3.5.2"
+gem "jekyll", "3.6.0"
+gem "jekyll-assets"
+gem "jekyll-pdf", github: 'zhulik/jekyll-pdf'
 
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
