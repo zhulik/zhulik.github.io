@@ -4,6 +4,7 @@ description: >
   Yet another ordinary blog about programming by yet another ordinary programmer
 baseurl: ""
 url: "zhulik.github.io"
+google_analytics: UA-107242109-1
 
 contacts:
   twitter:
