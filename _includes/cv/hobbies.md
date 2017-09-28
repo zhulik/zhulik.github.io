@@ -1,4 +1,4 @@
-# Hobbies
+## Hobbies
 * Music (spent 4 years playing drums)
 * Bicycle
 * Mountain Skiing

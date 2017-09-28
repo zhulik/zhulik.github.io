@@ -1,11 +1,10 @@
 {% include cv/personal_info.md %}
-{% include cv/contacts.md %}
 {% include cv/professional_experience.md %}
 {% include cv/education.md %}
 {% include cv/technologies.html %}
 {% include cv/skills.md %}
 
-# Open source and contributions
+## Open source and contributions
 * [margelet](https://github.com/zhulik/margelet)
 * [pinball](https://github.com/zhulik/pinball)
 * [bubing](https://github.com/zhulik/bubing)

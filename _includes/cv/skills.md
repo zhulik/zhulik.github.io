@@ -1,4 +1,4 @@
-# Skills
+## Skills
 * Strong OOP
 * Strong ruby metaprogramming
 * Strong refactoring
