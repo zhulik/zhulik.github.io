@@ -3,7 +3,6 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-
-[pdf](/gleb_sinyavsky_cv.pdf)
+<div class='pull-right'><a href="/gleb_sinyavsky_cv.pdf">PDF</a></div>
 
 {% include cv/index.md %}
