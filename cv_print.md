@@ -1,5 +1,5 @@
 ---
-layout: empty
+layout: print
 permalink: /cv_print/
 ---
 # CV
