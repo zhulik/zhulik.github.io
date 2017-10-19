@@ -1,0 +1,29 @@
+title: Ordinary programmer's blog
+email: zhulik.gleb@gmail.com
+description: >
+  Yet another ordinary blog about programming by yet another ordinary programmer
+baseurl: ""
+url: "zhulik.github.io"
+google_analytics: UA-107242109-1
+
+contacts:
+  twitter:
+    username: zhulikgleb
+    title: zhulikgleb
+
+  github:
+    username: zhulik
+    title: zhulik
+  linkedin:
+    username: gleb-sinyavsky-65b0725a
+    title: Gleb Sinyavsky
+
+pdf:
+  layout: print
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-pdf
